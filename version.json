@@ -1,0 +1,13 @@
+{
+    "product":  "Magic Search App",
+    "schema_version":  1,
+    "version":  "1.0.0",
+    "ota_enabled":  true,
+    "mode":  "auto-update",
+    "url":  "https://github.com/kthohuuhoang-gif/magic-search-update/releases/latest",
+    "date":  "2026-07-23",
+    "notes":  "Magic Search App v1.0.0",
+    "update_url":  "https://github.com/kthohuuhoang-gif/magic-search-update/releases/download/app-latest-update/MagicSearchApp_Update.zip",
+    "update_sha256":  "16fc0cbec596f8318c1c7d8cf1f1aa201199aba9fcc93f49dcddde84703cfe3a",
+    "update_size":  3589222
+}
