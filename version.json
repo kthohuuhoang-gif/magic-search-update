@@ -1,13 +1,17 @@
 {
     "product":  "Magic Search App",
     "schema_version":  1,
-    "version":  "1.0.1",
+    "version":  "1.3.0",
     "ota_enabled":  true,
     "mode":  "auto-update",
     "url":  "https://github.com/kthohuuhoang-gif/magic-search-update/releases/latest",
-    "date":  "2026-07-23",
-    "notes":  "Magic Search App v1.0.1",
+    "date":  "2026-08-08",
+    "notes":  "Magic Search App v1.3.0",
     "update_url":  "https://github.com/kthohuuhoang-gif/magic-search-update/releases/download/app-latest-update/MagicSearchApp_Update.zip",
-    "update_sha256":  "d70dfe5fa72617b5dd329c2fdf8b186064c4bc485dfeb0b168d4df7bc4f8760d",
-    "update_size":  3607449
+    "update_sha256":  "bb47a0d3108e31ccc872d10397399f89bd9d834fecbbb8bc9067484185e524d4",
+    "update_size":  8513589,
+    "update_security":  "ecdsa-p256-required",
+    "min_from_version":  "1.2.0",
+    "update_signature":  "cqmsVyI2Cd39ngI0WUj2VsvOVYio2hiTQaptaihg8HMVN1TE876vVkEsp_WGpMaGujsR_Qknw9dK9_O0rWH5Kw",
+    "update_key_id":  "archih3-app-v1"
 }
