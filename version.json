@@ -11,5 +11,7 @@
     "update_sha256":  "0e32223bea50c3e75607ed3cb31f581c1628407a4f86a6371498d95d38955461",
     "update_size":  10830645,
     "update_security":  "ecdsa-p256-required",
-    "min_from_version":  "1.2.0"
+    "min_from_version":  "1.2.0",
+    "update_signature":  "npnR6SFEoGQ1KC1aiq7Psof26vnYrmSNJ-KZmWw12AossqRdR-HLlxvy6FQHWGyzoXl-aJdyMxw9Dn8RviaL4w",
+    "update_key_id":  "archih3-app-v1"
 }
